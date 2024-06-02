@@ -1,2 +1,2 @@
 # MIGHTI_ColorPlots
-Creates color plot for meridional and zonal wind data from ICON-MIGHTI
+Creates color plots for meridional and zonal wind data from ICON-MIGHTI. Uses level 2.2 data.
